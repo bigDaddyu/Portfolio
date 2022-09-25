@@ -1,0 +1,92 @@
+.all{
+    display: flex;
+    margin-left: 50px;
+    background-color: rgb(235, 224, 224);
+}
+
+.girl{
+    box-shadow: inset 5px 5px 20px 5px;
+    box-shadow: 5px 5px 20px 5px;
+    border: 1px solid rgb(235, 224, 224);
+}
+
+.me{
+    padding-left: 80px;
+    font-weight: bolder;
+    text-size-adjust: 0.5rem;
+    width: 500px;
+}
+
+.visit{
+    color: rgba(255, 0, 0, 0.719);
+    font-size: large;
+}
+
+.about{
+    font-size: 4rem;
+    padding: auto;
+}
+
+.download{
+   margin-top: 100px;
+   width: 10rem;
+   height: 2rem;
+   color: rgba(255, 0, 0, 0.719);
+}
+
+.first{
+    background-color: rgb(235, 224, 224);
+}
+
+
+.third{
+    display: flex;
+    flex-direction: row;
+    padding: 1.5rem;
+    margin-right: 2rem;
+    width: 300px;
+    height: 300px;
+}
+
+.fourth{
+    display: flex;
+    flex-direction: row;
+    padding: 1.5rem;
+    width: 300px;
+    height: 300px;
+}
+
+.nav{
+    display: flex;
+    justify-content: right;
+    font-weight: bolder;
+    font-size: large;
+    font-style: oblique;
+    background-color: rgb(152, 142, 162);
+    margin: 50px;
+}
+
+.us{
+    padding-right: 1.5rem;
+}
+
+.hug{
+    padding-right: 1.5rem; 
+}
+
+.okay{
+    padding-right: 1.5rem;
+}
+
+.doc{
+    padding-right: 1.5rem;
+}
+
+.usman{
+    font-weight: bolder;
+}
+
+.last{
+    text-align: center;
+    background-color: rgb(235, 224, 224);
+}
